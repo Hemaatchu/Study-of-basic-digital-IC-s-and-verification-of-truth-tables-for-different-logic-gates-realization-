@@ -64,13 +64,11 @@ Program to verify the truth table in quartus for the basic logic gates using Ver
 
 Developed by: Hemavathy.S
 
-
 RegisterNumber: 23013552
 
 Code:
 
-
-![exp1 code](https://github.com/Hemaatchu/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147328300/a9db1102-ce52-4af3-be92-981ef0cd1086)
+![ex 1 (2)](https://github.com/Hemaatchu/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147328300/52ae3f60-541f-40b9-b65f-bfdac4fda5b4)
 
 Logic symbol:
 
